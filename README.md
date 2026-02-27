@@ -1,6 +1,6 @@
 # Bikeshare
 
-This bikeshare project is a exercise of Udacity Git course
+This project is exercise of Udacity Git course
 
 ## Date created
 

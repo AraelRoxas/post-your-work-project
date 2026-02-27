@@ -9,3 +9,7 @@ class bike(object):
     
     def func(self):
         pass
+
+class location(object):
+    def __init__(self):
+        name = None
